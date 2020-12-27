@@ -1,0 +1,3 @@
+﻿  mainSource.cpp
+U:\Programming\C++\Projet avec jahin\UPDATED\programmingProject\programmingProject\mainSource.cpp(135): warning C4715: 'mine': not all control paths return a value
+  programmingProject.vcxproj -> U:\Programming\C++\Projet avec jahin\UPDATED\programmingProject\Debug\programmingProject.exe
